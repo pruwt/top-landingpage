@@ -75,3 +75,15 @@ header p {
   display: flex;
   height: 300px;
 }
+.section2{
+  margin: 10px;
+}
+.section2 h2{
+  text-align: center;
+}
+
+.coffeeinfo{
+display: flex;
+
+
+}
